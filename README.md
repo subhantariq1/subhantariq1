@@ -1,7 +1,9 @@
 # Hi there, I'm Subhan Tariq! 👋
 
-🎓 **CS New Grad** from Baruch College  
-👨‍💻 **Full Stack Developer** | React • Node.js • Bootstrap • Python (NumPy, pandas, scikit-learn)
+🎓 **CS New Grad** from Baruch College
+👨‍💻 **Full Stack Developer at QuickSlot Health** | Prev SWE @ Fig Medical, Prev Data Analyst @ Mount Sinai Health System
+
+React • Node.js • Bootstrap • Python (NumPy, pandas, scikit-learn)
 
 ---
 
