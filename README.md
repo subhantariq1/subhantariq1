@@ -1,9 +1,8 @@
 # Hi there, I'm Subhan Tariq! 👋
 
 🎓 **CS New Grad** from Baruch College
-👨‍💻 **Full Stack Developer at QuickSlot Health** | Prev SWE @ Fig Medical, Prev Data Analyst @ Mount Sinai Health System
 
-React • Node.js • Bootstrap • Python (NumPy, pandas, scikit-learn)
+👨‍💻 **Full Stack Developer at QuickSlot Health** | Prev SWE @ Fig Medical, Prev Data Analyst @ Mount Sinai Health System
 
 ---
 
@@ -31,9 +30,9 @@ I'm a passionate software developer with a strong foundation in both frontend an
 
 ## 📌 Featured Projects
 
-- [**CS Majors Forum**](https://github.com/subhantariq1/cs-majors-forum) — A community space for Computer Science students to connect, share, and collaborate.
 - [**Recipe Remix**](https://github.com/subhantariq1/recipe-remix) — A fun project for discovering and remixing new recipes.
 - [**FinTrack**](https://github.com/subhantariq1/fintrack) — A personal finance tracker to help you manage your budget and expenses.
+- [**CS Majors Forum**](https://github.com/subhantariq1/cs-majors-forum) — A community space for Computer Science students to connect, share, and collaborate.
 
 ---
 
