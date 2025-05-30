@@ -21,7 +21,7 @@
 ## 📌 Featured Projects
 
 - [**Recipe Remix**](https://github.com/subhantariq1/recipe-remix) — A fun project for discovering and remixing new recipes.
-- [**Movie Recommender**](https://github.com/subhantariq1/Movie-Recommendation-Project) - A movie recommendation generator to finding similar movies
+- [**Movie Recommender**](https://github.com/subhantariq1/Movie-Recommendation-Project) - A movie recommendation generator to find similar movies
 - [**FinTrack**](https://github.com/subhantariq1/fintrack) — A personal finance tracker to help you manage your budget and expenses.
 - [**CS Majors Forum**](https://github.com/subhantariq1/cs-majors-forum) — A community space for Computer Science students to connect, share, and collaborate.
 
