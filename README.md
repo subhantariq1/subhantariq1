@@ -6,12 +6,6 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a new grad software developer. I enjoy building impactful projects and continuously learning new skills.
-
----
-
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks:**  
